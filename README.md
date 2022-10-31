@@ -38,6 +38,7 @@ Example:
 **{ insert/update } / { sso/tl } - { Developer Initials } - { Date }**
 
 > update_sso_lr_10_31_2022.js
+> rollback_sso_lr_10_31_2022.js
 
 ## Process
 
