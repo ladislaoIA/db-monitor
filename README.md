@@ -31,7 +31,7 @@ We are using a specific naming convention for files in Github to provide consist
 
 * Developer Initials
 
-* Jira Ticket Number
+* Date (mm_dd_yyyy format)
 
 Example:
 
