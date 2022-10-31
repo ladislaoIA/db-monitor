@@ -35,7 +35,7 @@ We are using a specific naming convention for files in Github to provide consist
 
 Example:
 
-**{ insert/update } / { sso/tl } _ { Developer Initials } _ { Date }**
+**{ insert/update } _ { sso/tl } _ { developer Initials } _ { date }**
 
 > update_sso_lr_10_31_2022.js
 
